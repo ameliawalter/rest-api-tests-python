@@ -40,4 +40,4 @@ jobs:
           path: |
                 results.xml
                 report.html
-                assests
+                assets
